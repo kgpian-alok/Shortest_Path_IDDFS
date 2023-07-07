@@ -2,9 +2,6 @@
 
 Iterative Deepning Depth First Search
 
-Code Submitted by- Alok Kumar - 21CE10008 
-                   Anish Majumdar - 21CE10009
-
 CODE STARTS FROM HERE
        1   ---->level 0
       /  \
